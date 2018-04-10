@@ -12,6 +12,8 @@ setup(
     author_email='shuge.lee@gmail.com',
     description='RSA in pure Python',
 
+    keywords='rsa',
+    
     packages = [
         "tiny_rsa",
         "tiny_rsa.tests",
